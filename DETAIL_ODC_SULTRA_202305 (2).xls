@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+</head>
+<body>
+<table class="table" id="main_table" style="width: 100%;">
+  <thead style="color: #fff;">
+    <tr>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>TREG</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>WITEL</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>STO</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>SEKTOR</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>ODC</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>TAHUN</center></th>
+        <th style="border: 1.1px solid #fff !important; padding: 10px; background-color: #2c3e50;"><center>TANGGAL APPROVE 2</center></th>
+    </tr>
+  </thead>
+  <tbody>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - BAU BAU</center></td>
+      <td><center>BBU</center></td>
+      <td><center>BBU-FA</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 13:57:41</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - BAU BAU</center></td>
+      <td><center>BBU</center></td>
+      <td><center>BBU-FAN</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 13:58:22</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - BAU BAU</center></td>
+      <td><center>RAH</center></td>
+      <td><center>RAH-FA</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:00:11</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - BAU BAU</center></td>
+      <td><center>RAH</center></td>
+      <td><center>RAH-FC</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 13:48:00</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KENDARI</center></td>
+      <td><center>KDR</center></td>
+      <td><center>KDR-FE</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 13:59:02</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KENDARI</center></td>
+      <td><center>KDR</center></td>
+      <td><center>KDR-FG</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-08 09:53:48</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KENDARI</center></td>
+      <td><center>KDR</center></td>
+      <td><center>KDR-FX</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:00:40</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KENDARI</center></td>
+      <td><center>KDR</center></td>
+      <td><center>KDR-FF</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:14:46</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KOLAKA</center></td>
+      <td><center>KKA</center></td>
+      <td><center>KKA-FT</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:15:20</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - KOLAKA</center></td>
+      <td><center>KKA</center></td>
+      <td><center>KKA-FF</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 13:59:43</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 1</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAR</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:01:03</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 1</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FC</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:16:36</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 1</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FE</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:17:03</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 1</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAQ</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-22 17:12:58</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 1</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAX</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-22 17:13:31</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 2</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAS</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:01:31</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 2</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAG</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-03 14:16:06</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 2</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FAC</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-09 09:23:51</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - MANDONGA 2</center></td>
+      <td><center>MDG</center></td>
+      <td><center>MDG-FL</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-09 09:24:22</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - UNAHAA</center></td>
+      <td><center>UNH</center></td>
+      <td><center>UNH-FC</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-24 17:44:50</center></td>
+    </tr>
+        <tr>
+      <td><center>7</center></td>
+      <td><center>SULTRA</center></td>
+      <td><center>SEKTOR - KENDARI - UNAHAA</center></td>
+      <td><center>UNH</center></td>
+      <td><center>UNH-FD</center></td>
+      <td><center>2023</center></td>
+      <td><center>2023-05-24 17:45:51</center></td>
+    </tr>
+      </tbody>
+</table>
+</body>
+</html>
